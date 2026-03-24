@@ -1,4 +1,4 @@
-# DAC
+## DAC
  INTERFACING DAC WITH 8086 KIT AND GENERATING SAWTOOTH AND SQUARE WAVEFORMS
 
 ## AIM
@@ -82,28 +82,22 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 | Waveform  | Amplitude | Time period | 
 |-----------|-----------|-------------|
-| Sawtooth  |    7.68v      |   1.526ms          | 
-| Square    |    9.40v       |  6.051ms           |
+| Sawtooth  |  7.68v    |    1.526ms  | 
+| Square    |  9.40v    |    6.051ms  |
 ---
 
 ## Model Graph
 
 *(Insert graph/diagram here if available)*
-<img width="676" height="583" alt="Screenshot (84)" src="https://github.com/user-attachments/assets/61a26d29-1914-4a4d-a42e-de2d5ead0560" />
-
-<img width="728" height="618" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/3807f9cd-2959-43ac-8cac-697d6bcac417" />
-
+<img width="676" height="583" alt="image" src="https://github.com/user-attachments/assets/e9431a97-7aef-41a4-8f66-46cc4d1fe636" />
+<img width="728" height="618" alt="image" src="https://github.com/user-attachments/assets/e6437202-c0f8-499e-adce-c5008b52c299" />
 
 
 
 
 ## OUTPUT IMAGE OF DAC(SAWTOOTH WAVE FROM DSO AND SQUARE WAVE FROM DSO)
-![WhatsApp Image 2026-03-09 at 11 11 59](https://github.com/user-attachments/assets/4d9cf281-fcda-4591-b2bc-075676d2ca09)
-
-
-![WhatsApp Image 2026-03-09 at 11 10 12](https://github.com/user-attachments/assets/ade559cd-2bc9-4059-8f22-49620b9d58ad)
-
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b2cc54ea-48f7-4f31-8d20-bd1a6fdcdf60" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/1cc53407-43b7-48df-a71c-d0650ae7c4b3" />
 
 
 
@@ -111,6 +105,7 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ## Result
 
 Thus, the **DAC was interfaced with 8086** and different **waveforms** were successfully generated.
+
 
 
 
